@@ -1,0 +1,4 @@
+TO RUN :
+
+.venv/bin/streamlit run student_records_gui_with_bg.py
+
